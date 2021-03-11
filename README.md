@@ -1,2 +1,4 @@
 # Work_project_simulation
-Showcasing exmaple of work project
+Showcasing example of work project
+
+

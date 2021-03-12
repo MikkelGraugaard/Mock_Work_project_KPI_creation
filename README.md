@@ -1,4 +1,4 @@
-# Work_project_simulation
+# Mock_Work_project_KPI_creation
 Showcasing example of work project
 
 

@@ -12,7 +12,7 @@ Showcasing example of work project
 - IfError()
 - Today()
 
-Mainly using above functions to extraxt and create KPI's from exsting data. The excel functions are used both seperated and nested. Aswells as calculations are made between them. 
+Mainly using above functions to extraxt and create KPIs from exsting data. The excel functions are used both seperate and nested. As well as calculations are made between them. 
 
 
 

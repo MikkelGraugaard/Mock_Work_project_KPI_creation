@@ -16,7 +16,7 @@ Mainly using above functions to extraxt and create KPI's from exsting data. The 
 
 
 
-## VBA Cod.
+## VBA Code
 Example of the VBA code that uses the KPI's and adittional data in the sheet to dictate what should happen with the IT-asset
 
 
